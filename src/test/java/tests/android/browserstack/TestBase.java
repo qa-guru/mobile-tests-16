@@ -1,4 +1,4 @@
-package tests.android.selenide;
+package tests.android.browserstack;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.logevents.SelenideLogger;
